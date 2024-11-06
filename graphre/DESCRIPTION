@@ -1,0 +1,16 @@
+Package: graphre
+Title: Scatterplot for two Numeric Variables
+Version: 0.1.0
+Authors@R: 
+    person("Zhichun", "Qi",
+    email="zhichun2@ualberta.ca", 
+    role = c("aut", "cre"))
+Description: This function creates a scatterplot to demonstrate the relationship between two numeric variables.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: ggplot2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

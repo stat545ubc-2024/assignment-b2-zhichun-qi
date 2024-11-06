@@ -1,1 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jH1Ixftw)
+# Assignment B-2
+
+## Overview
+
+This repository is *Assignment B2* for STAT 545B. This assignment is to wrap the function from Assignment B1 in an R package. The folder named `graphre`is the R package I made.
+
+## How to engage
+
+The installation instructions can be found in README.Rmd inside the `graphre` package.
